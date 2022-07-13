@@ -1,3 +1,3 @@
 #  Dashboard Job IT
 
-![first](https://github.com/YZDmitriy/TODO-Redux/blob/master/public/todo%20redux.png)
+![first](https://github.com/YZDmitriy/dashboard-app/blob/master/public/Dashboard.gif)
