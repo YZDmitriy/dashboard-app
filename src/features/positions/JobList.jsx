@@ -1,6 +1,7 @@
 import { useDispatch } from 'react-redux';
 import { JobPosition } from './JobPosition';
-import { addFilter } from 'store/filtres/filtres-actions';
+
+import { addFilter } from '../filter/filter-slice'
 import { usePositions } from './usePositions';
 import { useFetchPositions } from './useFetchPosition';
 

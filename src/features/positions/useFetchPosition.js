@@ -9,5 +9,5 @@ export const useFetchPositions = () => {
 
   useEffect(() => {
     dispatch(addPositions(data));
-  });
+  }, [dispatch]);
 };
