@@ -1,6 +1,8 @@
-export const ADD_POSITIONS = 'ADD_POSITIONS';
+// переписали на Redux Toolkit
 
-export const addPositions = (positions) => ({
-  type: ADD_POSITIONS,
-  positions,
-});
+// export const ADD_POSITIONS = 'ADD_POSITIONS';
+
+// export const addPositions = (positions) => ({
+//   type: ADD_POSITIONS,
+//   positions,
+// });

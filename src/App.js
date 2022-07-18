@@ -1,5 +1,5 @@
-import { FilterPanel } from 'components/FilterPanel';
-import { JobList } from 'components/JobList';
+import { FilterPanel } from 'features/filter/FilterPanel';
+import { JobList } from 'features/positions/JobList';
 import { TheHeader } from 'components/TheHeader';
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';

@@ -4,8 +4,7 @@ import { Badge } from 'UI/Badge';
 import { Card } from 'UI/Card';
 import { Stack } from 'UI/Stack';
 
-import { selectFilters } from 'store/filtres/filtres-selector';
-import { removeFilter, clearFilter } from '../store/filtres/filtres-actions';
+import { removeFilter, clearFilter, selectFilters } from './filter-slice';
 
 const FilterPanel = () => {
   const currentFilters = useSelector(selectFilters);
